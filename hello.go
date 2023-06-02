@@ -7,7 +7,7 @@ import (
 
 
 
-func main(){
+func ains(){
 	person:= new(Person)
 	person.Name = "Tinuade"
 	person.Age = 22
